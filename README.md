@@ -107,7 +107,7 @@ In this workshop, participants will learn the basics of Git and collaborative we
 
 **Step 9: Create Conflict by editing the same lines**
 
--   Programmer A edits the <h1> heading of index.html file:
+-   Programmer A edits the `<h1>` heading of index.html file:
 
 ```html
 <h1>Welcome to My HTML Website</h1>
