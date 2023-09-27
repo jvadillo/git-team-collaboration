@@ -26,9 +26,8 @@ In this workshop, participants will learn the basics of Git and collaborative we
 
 #### Initial HTML File (index.html)
 
-htmlCopy code
-
-`<!DOCTYPE html>
+```html
+<!DOCTYPE html>
 <html>
 <head>
     <title>My Website</title>
@@ -37,7 +36,8 @@ htmlCopy code
     <h1>Welcome to My Website</h1>
     <p>This is the initial content.</p>
 </body>
-</html>`
+</html>
+```
 
 #### Workshop Steps
 
@@ -47,44 +47,45 @@ Step 1: Clone the Repository
 -   Navigate to the directory where they want to clone the repository.
 -   Use the following command to clone the repository (replace `<repository_url>` with the URL of your sample repository on GitHub):
 
-    bashCopy code
 
-    `git clone <repository_url>`
+    ```bash
+    git clone <repository_url>
+    ```
 
 Step 2: Create a New Branch
 
 -   Inside the cloned repository directory, create a new branch for your feature:
 
-    cssCopy code
-
-    `git checkout -b feature-branch`
+    ```bash
+    git checkout -b feature-branch
+    ```
 
 Step 3: Make Changes to the HTML File
 
 -   Open the `index.html` file in a text editor.
 -   Modify the file by adding a new paragraph, e.g.:
 
-    htmlCopy code
-
-    `<p>This is the new feature added by <Your Name></p>`
+    ```html
+    <p>This is the new feature added by <Your Name></p>
+    ```
 
 Step 4: Commit Changes
 
 -   Save your changes in the text editor.
 -   In the terminal, commit your changes:
 
-    sqlCopy code
-
-    `git add index.html
-    git commit -m "Add new feature to index.html"`
+    ```bash
+    git add index.html
+    git commit -m "Add new feature to index.html"
+    ```
 
 Step 5: Push the Branch to GitHub
 
 -   Push the branch to the remote repository on GitHub:
 
-    perlCopy code
-
-    `git push origin feature-branch`
+    ```bash
+    git push origin feature-branch
+    ```
 
 Step 6: Create a Pull Request on GitHub
 
