@@ -1,6 +1,6 @@
 # Introduction to Git and Collaborative Development
 
-#### Workshop Overview
+### Workshop Overview
 
 In this workshop, participants will learn the basics of Git and collaborative web development on GitHub. They will:
 
@@ -13,12 +13,12 @@ In this workshop, participants will learn the basics of Git and collaborative we
 7.  Collaboratively modify the HTML file.
 8.  Resolve merge conflicts.
 
-#### Prerequisites
+### Prerequisites
 
 -   Participants should have Git installed on their computers.
 -   Access to GitHub accounts.
 
-#### Workshop Materials
+### Workshop Materials
 
 -   A sample HTML repository on GitHub.
 -   Initial HTML file (index.html) with simple content.
@@ -39,7 +39,7 @@ In this workshop, participants will learn the basics of Git and collaborative we
 </html>
 ```
 
-#### Workshop Steps
+### Workshop Steps
 
 Step 1: Clone the Repository
 
@@ -113,13 +113,13 @@ Step 9: Resolve Merge Conflicts
 -   Commit the resolved changes.
 -   Merge the branch into the main branch.
 
-#### Workshop Tips
+### Workshop Tips
 
 -   Encourage participants to collaborate closely during conflict resolution.
 -   Discuss best practices for resolving merge conflicts.
 -   Emphasize the importance of clear commit messages and descriptive pull request descriptions.
 -   Encourage participants to experiment with branching, making more changes, and resolving conflicts.
 
-#### Workshop Conclusion
+### Workshop Conclusion
 
 Participants have learned the basics of Git, collaborative development, and conflict resolution on GitHub. They can now apply these skills to real-world team projects and contribute effectively to collaborative coding efforts. Provide resources for further Git and GitHub learning, such as documentation and tutorials.
